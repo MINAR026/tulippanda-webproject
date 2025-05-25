@@ -62,9 +62,9 @@ To view the project locally:
 ## 📬 Contact
 
 Developed by **Minar Ahamed Niloy**  
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-🌐 Portfolio: [your-portfolio-link](https://your-portfolio-link.com)
+📧 Email: (minarahmediii@gmail.com)  
+🌐 Portfolio: (https://www.linkedin.com/in/minar-ahamed-760830261/))
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MRGIT License](LICENSE).
