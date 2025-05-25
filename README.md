@@ -55,7 +55,7 @@ To view the project locally:
 
 ## 📸 Preview
 
-![TulipPanda Screenshot](images/screenshot.png)
+![TulipPanda Screenshot] (images/screenshot.png)
 
 *Note: Replace `screenshot.png` with an actual screenshot of your homepage.*
 
@@ -67,4 +67,4 @@ Developed by **Minar Ahamed Niloy**
 
 ## 📄 License
 
-This project is open-source and available under the [MRGIT License](LICENSE).
+This project is open-source and available under the [MRG IT License](LICENSE).
