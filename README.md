@@ -63,7 +63,7 @@ To view the project locally:
 
 Developed by **Minar Ahamed Niloy**  
 📧 Email: (minarahmediii@gmail.com)  
-🌐 Portfolio: (https://www.linkedin.com/in/minar-ahamed-760830261/))
+🌐 Portfolio: (https://www.linkedin.com/in/minar-ahamed-760830261/)
 
 ## 📄 License
 
